@@ -50,4 +50,9 @@ th{
   background-color: #2563eb;
   color: white;
 }
-
+.delete-btn{
+  background: rgb(221, 8, 8);
+}
+.adduser-btn{
+  background: rgb(4, 185, 4);
+}
